@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">playdate</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration">registration</string>
+    <string name="title_activity_yourdogs">yourdogs</string>
+    <string name="title_activity_adddog">adddog</string>
+    <string name="title_activity_findadate">findadate</string>
+    <string name="title_activity_findadatelist">findadatelist</string>
+    <string name="title_activity_dogpage">dogpage</string>
+    <string name="title_activity_filter">filter</string>
+    <string name="title_activity_findadatemap">Map</string>
+    <string name="title_activity_activity_deails">activityDeails</string>
+    <string name="title_activity_listrequests">listrequests</string>
+    <string name="title_activity_upcoming_activities">upcomingActivities</string>
+    <string name="title_activity_oldmatches">oldmatches</string>
+</resources>
